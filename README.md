@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Any Full Stack Project!**
 
-- 💬 Ask me about **JavaScript and React JS!**
+- 💬 Ask me about **JavaScript, React, Next!**
 
-- 📫 How to reach me **jasonj19276@gmail.com**
+- 📫 How to reach me **mathewjasonjeong@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
